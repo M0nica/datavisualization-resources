@@ -13,5 +13,10 @@ Stop the program by pressing ```Ctrl-C```.
 Save the file as twitter_data.txt or whatever file name you would like
 ``` python twitter_streaming.py > twitter_data.txt.```
 
+
+Parse twitter json file and extract nodes and edges for directed graph using <a href="https://github.com/M0nica/datavisualization-resources/blob/master/export-network-data.py"> export-network-data.py</a>
+
+
+
 #Visualizing Twitter Data
 -Download <a href="https://www.rstudio.com">R Studio</a>
