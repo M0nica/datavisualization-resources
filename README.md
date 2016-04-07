@@ -19,6 +19,6 @@ Parse twitter json file and extract nodes and edges for directed graph using <a 
 
 
 #Visualizing Twitter Data
--Download <a href="https://www.rstudio.com">R Studio</a>
--plot data with ggplot2 <a href="http://docs.ggplot2.org/current/">http://docs.ggplot2.org/current/</a>
--D3 Examples (include visualizations and associate code/data)<a href="http://bl.ocks.org">http://bl.ocks.org</a>
+* Download <a href="https://www.rstudio.com">R Studio</a> to manipulate and view datafiles.
+* Use ggplot2 to plot data in R. <a href="http://docs.ggplot2.org/current/">ggplot2 documentation: http://docs.ggplot2.org/current/</a>
+* Use D3 to visualize data in JavaScript. D3 Examples (include visualizations and associate code/data files) <a href="http://bl.ocks.org">http://bl.ocks.org</a>
